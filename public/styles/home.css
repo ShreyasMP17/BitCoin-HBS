@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+}
+
+.navbar button{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#one{
+    background-color: white;
+    border: none;
+}
+
+#two{
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+#three{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.coins{
+    background-color: rgba(190, 203, 217, 0.877);
+    
+}
+.full{
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.full{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.first{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    
+}
